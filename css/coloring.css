@@ -99,6 +99,19 @@ body::-webkit-scrollbar-thumb,
     background: var(--primary-color);
 }
 
+
+
+@keyframes ticker {
+    from {
+        transform: translateX(0);
+    }
+
+    to {
+        transform: translateX(-50%);
+    }
+}
+
+
 ::-moz-selection {
     /* Code for Firefox */
     color: #ffffff;
