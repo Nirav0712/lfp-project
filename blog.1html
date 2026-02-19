@@ -1,0 +1,618 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>PowerFlow - Gym Fitness and Yoga HTML Template</title>
+    <link rel="icon" href="images/icon.webp" type="image/gif" sizes="16x16">
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="PowerFlow - Gym Fitness and Yoga HTML Template" name="description">
+    <meta content="" name="keywords">
+    <meta content="" name="author">
+    <!-- CSS Files
+    ================================================== -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" id="bootstrap">
+    <link href="css/plugins.css" rel="stylesheet" type="text/css">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+    <link href="css/coloring.css" rel="stylesheet" type="text/css">
+    <!-- color scheme -->
+    <link id="colors" href="css/colors/scheme-01.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body class="dark-scheme">
+
+    <!-- header begin -->
+   
+                    <header class="transparent">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="de-flex">
+                        <div class="de-flex-col">
+                            <!-- logo begin -->
+                            <div id="logo">
+                                <a href="index.html">
+                                    <img class="logo-main" src="images/logo.png" alt="" height="60" width="100">
+                                    <img class="logo-scroll" src="images/logo.png" alt="">
+                                    <img class="logo-mobile" src="images/logo.png" alt="">
+                                </a>
+                            </div>
+                            <!-- logo close -->
+                        </div>
+                        <div class="de-flex-col header-col-mid">
+                            <div class="de-flex-col">
+                                <ul id="mainmenu">
+                                    <li><a class="menu-item" href="index.html">Home</a></li>
+                                    <li><a class="menu-item" href="about.html">About</a></li>
+                                    <li><a class="menu-item" href="team.html">Team</a></li>
+
+                                    <li><a class="menu-item" href="classes.html">Activities</a>
+                                        <ul>
+                                            <li><a class="menu-item" href="aerobics.html">Aerobic</a></li>
+                                            <li><a class="menu-item" href="crossfit.html">CrossFit</a></li>
+                                            <li><a class="menu-item" href="zumba.html">Zumba</a></li>
+                                            <li><a class="menu-item" href="abs.html">ABS</a></li>
+                                            <li><a class="menu-item" href="yoga.html">Yoga</a></li>
+                                            <li><a class="menu-item" href="kickboxing.html">Kick Boxing</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a class="menu-item" href="pricing.html">Pricing</a></li>
+                                    <li><a class="menu-item" href="blog.html">Blog</a></li>
+                                    <li><a class="menu-item" href="contact.html">Contact</a></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="de-flex-col">
+                            <a class="btn-main fx-slide w-100 "
+                                style="background-color: black; border-radius: 10px; border: 1px solid #ffd100cc;"
+                                href="join.html"><span>Join
+                                    Now</span></a>
+
+                            <div class="menu_side_area">
+                                <span id="menu-btn"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- header end -->
+
+    <!-- main content begin -->
+    <main>
+
+        <section class="text-light relative" data-bgimage="url(images/background/5.webp) top">
+            <div class="container relative z-2">
+                <div class="row g-4">
+                    <div class="col-lg-12 text-center">
+                        <div class="spacer-double"></div>
+                        <!-- <h1 class="mb-0" style="color: black;">Complete Fitness Strategy to Transform Your Body Faster
+                        </h1> -->
+                        <!-- <ol class="breadcrumb justify-content-center">
+                            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                            <li class="breadcrumb-item"><a href="blog.html">Blog</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Complete Fitness Strategy to
+                                Transform Your Body Faster</li>
+                        </ol> -->
+                        <div class="spacer-double"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="sw-overlay op-8"></div>
+            <div class="gradient-edge-bottom"></div>
+        </section>
+
+        <section>
+            <div class="container">
+                <div class="row gx-5">
+                    <div class="col-lg-8">
+                        <div class="blog-read">
+                            <h1 class="mb-0" style="color: white;">Complete Fitness Strategy to Transform Your Body
+                                Faster
+                            </h1>
+                            <br>
+                            <p>
+                                If you are searching for the Best Gym in Shahibaug, your fitness journey starts at the
+                                right place. Choosing the right gym is not just about equipment — it's about expert
+                                guidance, structured workout plans, professional trainers, and a motivating environment.
+                                <br>
+                                At Life Fitness Pro – Shahibaug, we combine science-based training strategies, advanced
+                                equipment, and personalized coaching to help you achieve real and sustainable results.
+
+                            </p>
+                            <h2>Why Choosing the Best Gym in Shahibaug Matters</h2>
+                            <p>
+                                Many people join a gym but quit within 2–3 months due to lack of proper guidance,
+                                no structured workout plan, no motivation, and no visible results.
+                                The <strong>Best Gym in Shahibaug</strong> should provide more than machines —
+                                it should provide a complete fitness strategy.
+                            </p>
+
+                            <p>At <strong>Life Fitness Pro</strong>, we focus on:</p>
+                            <ul>
+                                <li>✔ Personalized goal setting</li>
+                                <li>✔ Body assessment</li>
+                                <li>✔ Professional supervision</li>
+                                <li>✔ Nutrition support</li>
+                                <li>✔ Progress tracking</li>
+                            </ul>
+                            <!-- <h2>Our Complete Fitness Strategy at Life Fitness Pro</h2>
+
+                            <h3>1. Goal-Based Training System</h3>
+                            <p>Before starting your transformation, we conduct:</p>
+                            <ul>
+                                <li>Body composition analysis</li>
+                                <li>BMI check</li>
+                                <li>Fat percentage measurement</li>
+                                <li>Strength & endurance evaluation</li>
+                                <li>Lifestyle consultation</li>
+                            </ul>
+
+                            <p>Customized plans are created for:</p>
+                            <ul>
+                                <li>Weight loss</li>
+                                <li>Muscle building</li>
+                                <li>Fat reduction</li>
+                                <li>Strength training</li>
+                                <li>General fitness</li>
+                            </ul>
+                            <h3>2. Strength Training for Maximum Results</h3>
+                            <p>Strength training helps in:</p>
+                            <ul>
+                                <li>Fat burning</li>
+                                <li>Muscle toning</li>
+                                <li>Boosting metabolism</li>
+                                <li>Increasing stamina</li>
+                                <li>Improving posture</li>
+                            </ul>
+
+                            <h3>3. HIIT & Cardio Fat Loss Strategy</h3>
+                            <ul>
+                                <li>HIIT workouts</li>
+                                <li>Treadmill sessions</li>
+                                <li>Cross trainer training</li>
+                                <li>Cycling programs</li>
+                                <li>Core workouts</li>
+                            </ul>
+
+                            <h3>4. Personal Training for Faster Transformation</h3>
+                            <ul>
+                                <li>✔ One-on-one sessions</li>
+                                <li>✔ Customized workout plan</li>
+                                <li>✔ Weekly progress tracking</li>
+                                <li>✔ Motivation coaching</li>
+                                <li>✔ Diet guidance</li>
+                            </ul>
+
+                            <h3>5. Nutrition & Diet Support Strategy</h3>
+                            <ul>
+                                <li>Protein intake planning</li>
+                                <li>Fat loss diet structure</li>
+                                <li>Muscle gain meal planning</li>
+                                <li>Hydration routine</li>
+                                <li>Supplement basics</li>
+                            </ul>
+
+                            <h3>6. Group Fitness & Zumba Motivation Strategy</h3>
+                            <ul>
+                                <li>Zumba sessions</li>
+                                <li>Group workout programs</li>
+                                <li>Fitness challenges</li>
+                                <li>Transformation events</li>
+                                <li>Seasonal fitness offers</li>
+                            </ul> -->
+
+                            <h2>Facilities at Life Fitness Pro – Best Gym in Shahibaug</h2>
+                            <ul>
+                                <li>Spacious workout area</li>
+                                <li>Modern & advanced equipment</li>
+                                <li>Clean & hygienic environment</li>
+                                <li>Professional trainers</li>
+                                <li>Cardio & strength zones</li>
+                                <li>Safe & supportive atmosphere</li>
+                            </ul>
+
+                            <h2>Who Should Join?</h2>
+                            <ul>
+                                <li>Working professionals</li>
+                                <li>College students</li>
+                                <li>Housewives</li>
+                                <li>Beginners</li>
+                                <li>Athletes</li>
+                            </ul>
+
+                            <h2>Benefits of Joining Life Fitness Pro</h2>
+                            <ul>
+                                <li>Faster fat loss</li>
+                                <li>Improved muscle definition</li>
+                                <li>Better stamina</li>
+                                <li>Increased confidence</li>
+                                <li>Reduced stress</li>
+                                <li>Healthy lifestyle habits</li>
+                            </ul>
+
+
+                            <!-- <ol class="ol-style-1">
+                                <li>
+                                    <h4>Why Choosing the Best Gym in Shahibaug Matters</h4>
+                                    <p>
+                                        Conditions like glaucoma, cataracts, and macular degeneration often develop
+                                        silently.
+                                        Regular exams help catch them early, when treatment is most effective.
+                                    </p>
+                                </li>
+
+                                <li>
+                                    <h4>Monitoring Vision Changes</h4>
+                                    <p>
+                                        Even small vision changes can affect daily life.
+                                        Your optometrist can update your glasses or contact prescription to keep your
+                                        vision clear and comfortable.
+                                    </p>
+                                </li>
+
+                                <li>
+                                    <h4>Protecting Children's Eye Health</h4>
+                                    <p>
+                                        Children may struggle in school due to undetected vision issues.
+                                        Regular exams ensure they see clearly for learning and development.
+                                    </p>
+                                </li>
+
+                                <li>
+                                    <h4>Supporting Healthy Aging</h4>
+                                    <p>
+                                        As we age, our risk of eye disease increases.
+                                        Routine checkups can help maintain independence and quality of life by
+                                        preventing vision loss.
+                                    </p>
+                                </li>
+
+                                <li>
+                                    <h4>Detecting Other Health Conditions</h4>
+                                    <p>
+                                        Eye doctors can spot early signs of diabetes, hypertension, and even high
+                                        cholesterol during an exam,
+                                        often before other symptoms appear.
+                                    </p>
+                                </li>
+
+                            </ol> -->
+
+
+                        </div>
+
+                        <div class="spacer-single"></div>
+
+                        <div id="blog-comment">
+                            <h4>Comments (5)</h4>
+
+                            <div class="spacer-half"></div>
+
+                            <ol>
+                                <li>
+                                    <div class="avatar">
+                                        <img src="images/testimonial/1.webp" alt="">
+                                    </div>
+                                    <div class="comment-info">
+                                        <span class="c_name">Merrill Rayos</span>
+                                        <span class="c_date id-color">2 days ago</span>
+                                        <span class="c_reply"><a href="#">Reply</a></span>
+                                        <div class="clearfix"></div>
+                                    </div>
+
+                                    <div class="comment">
+                                        Very informative! I skipped exams for years, but after reading this I booked an
+                                        appointment. Eye health really should be a priority.
+                                    </div>
+                                    <ol>
+                                        <li>
+                                            <div class="avatar">
+                                                <img src="images/testimonial/2.webp" alt="">
+                                            </div>
+                                            <div class="comment-info">
+                                                <span class="c_name">Jackqueline Sprang</span>
+                                                <span class="c_date id-color">2 days ago</span>
+                                                <span class="c_reply"><a href="#">Reply</a></span>
+                                                <div class="clearfix"></div>
+                                            </div>
+                                            <div class="comment">
+                                                Same here. My optometrist found early signs of glaucoma that I didn’t
+                                                even notice. Regular checkups really do make a difference.
+                                            </div>
+                                        </li>
+                                    </ol>
+                                </li>
+
+                                <li>
+                                    <div class="avatar">
+                                        <img src="images/testimonial/3.webp" alt="">
+                                    </div>
+                                    <div class="comment-info">
+                                        <span class="c_name">Sanford Crowley</span>
+                                        <span class="c_date id-color">2 days ago</span>
+                                        <span class="c_reply"><a href="#">Reply</a></span>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                    <div class="comment">
+                                        I used to think exams were only for people with poor eyesight, but I learned
+                                        they can reveal other health problems too. Great article!
+                                    </div>
+                                    <ol>
+                                        <li>
+                                            <div class="avatar">
+                                                <img src="images/testimonial/4.webp" alt="">
+                                            </div>
+                                            <div class="comment-info">
+                                                <span class="c_name">Lyndon Pocekay</span>
+                                                <span class="c_date id-color">2 days ago</span>
+                                                <span class="c_reply"><a href="#">Reply</a></span>
+                                                <div class="clearfix"></div>
+                                            </div>
+                                            <div class="comment">
+                                                Absolutely! My doctor noticed high blood pressure during an eye exam.
+                                                It’s amazing what they can find beyond just vision.
+                                            </div>
+                                        </li>
+                                    </ol>
+                                </li>
+
+                                <li>
+                                    <div class="avatar">
+                                        <img src="images/testimonial/5.webp" alt="">
+                                    </div>
+                                    <div class="comment-info">
+                                        <span class="c_name">Aleen Crigger</span>
+                                        <span class="c_date id-color">2 days ago</span>
+                                        <span class="c_reply"><a href="#">Reply</a></span>
+
+                                        <div class="clearfix"></div>
+                                    </div>
+                                    <div class="comment">
+                                        Thank you for sharing this. I've been putting off scheduling an appointment, but
+                                        now I see how important it is. Will book mine soon.
+                                    </div>
+                                </li>
+                            </ol>
+
+                            <div class="spacer-single"></div>
+
+                            <div id="comment-form-wrapper">
+                                <h4>Leave a Comment</h4>
+                                <div class="comment_form_holder">
+                                    <form id="contact_form" name="form1" class="form-border" method="post" action="#">
+
+                                        <label>Name</label>
+                                        <input type="text" name="name" id="name" class="form-control">
+
+                                        <label>Email <span class="req">*</span></label>
+                                        <input type="text" name="email" id="email" class="form-control">
+                                        <div id="error_email" class="error">Please check your email</div>
+
+                                        <label>Message <span class="req">*</span></label>
+                                        <textarea cols="10" rows="10" name="message" id="message"
+                                            class="form-control"></textarea>
+                                        <div id="error_message" class="error">Please check your message</div>
+                                        <div id="mail_success" class="success">Thank you. Your message has been sent.
+                                        </div>
+                                        <div id="mail_failed" class="error">Error, email not sent</div>
+
+                                        <p id="btnsubmit">
+                                            <input type="submit" id="send" value="Send" class="btn-main">
+                                        </p>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4  pt-100 pt-lg-100">
+                        <div class="widget widget-post">
+                            <h4>Related Posts</h4>
+                            <div class="blog-related-post">
+                                <div class="mb-4">
+                                    <a href="blog-single.html"
+                                        class="d-block hover relative rounded-20 overflow-hidden text-light">
+                                        <div class="relative">
+                                            <div
+                                                class="abs end-0 z-2 bg-blur rounded-2 text-white p-3 pb-2 m-4 text-center fw-600">
+                                                <h4 class="fs-36 mb-0 lh-1">10</h4>
+                                                <span>Oct</span>
+                                            </div>
+                                        </div>
+                                        <img src="images/news/s2.webp" class="w-100 hover-scale-1-1" alt="">
+                                        <div class="absolute start-0 bottom-0 p-40 z-2">
+                                            <div class="bg-color rounded-1 p-0 px-2 d-inline-block mb-3">Nutrition</div>
+                                            <h4>The Ultimate Guide to Pre-Workout and Post-Workout Meals</h4>
+                                        </div>
+                                        <div class="gradient-edge-bottom h-70"></div>
+                                    </a>
+                                </div>
+
+                                <div>
+                                    <a href="blog-single.html"
+                                        class="d-block hover relative rounded-20 overflow-hidden text-light">
+                                        <div class="relative">
+                                            <div
+                                                class="abs end-0 z-2 bg-blur rounded-2 text-white p-3 pb-2 m-4 text-center fw-600">
+                                                <h4 class="fs-36 mb-0 lh-1">05</h4>
+                                                <span>Oct</span>
+                                            </div>
+                                        </div>
+                                        <img src="images/news/s3.webp" class="w-100 hover-scale-1-1" alt="">
+                                        <div class="absolute start-0 bottom-0 p-40 z-2">
+                                            <div class="bg-color rounded-1 p-0 px-2 d-inline-block mb-3">Motivation
+                                            </div>
+                                            <h4>How to Stay Consistent at the Gym Even When You Feel Unmotivated</h4>
+                                        </div>
+                                        <div class="gradient-edge-bottom h-70"></div>
+                                    </a>
+                                </div>
+                            </div>
+
+
+                        </div>
+
+                        <div class="widget widget_tags">
+                            <h4>Popular Tags</h4>
+                            <ul>
+                                <li><a href="#link">Eye Exams</a></li>
+                                <li><a href="#link">Vision Care</a></li>
+                                <li><a href="#link">Optometry</a></li>
+                                <li><a href="#link">Children’s Eye Health</a></li>
+                                <li><a href="#link">Cataracts</a></li>
+                                <li><a href="#link">Glaucoma</a></li>
+                                <li><a href="#link">Healthy Eyes</a></li>
+                                <li><a href="#link">Digital Eye Strain</a></li>
+                                <li><a href="#link">Glasses</a></li>
+                                <li><a href="#link">Contact Lenses</a></li>
+                                <li><a href="#link">Eye Nutrition</a></li>
+                                <li><a href="#link">Preventive Care</a></li>
+                            </ul>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+       <section class=" text-light pt-50 pb-50">
+            <div class="marquee">
+                <div class="marquee-content">
+                    <span>Ready to take the first step towards your fitness goals?</span>
+                    <span>Ready to take the first step towards your fitness goals?</span>
+                    <span>Ready to take the first step towards your fitness goals?</span>
+                    <span>Ready to take the first step towards your fitness goals?</span>
+                    <span>Ready to take the first step towards your fitness goals?</span>
+                    <span>Ready to take the first step towards your fitness goals?</span>
+                    <span>Ready to take the first step towards your fitness goals?</span>
+                    <span>Ready to take the first step towards your fitness goals?</span>
+
+                </div>
+            </div>
+        </section>
+
+
+    </main>
+    <!-- main content end -->
+
+     <footer>
+        <div class="container">
+            <div class="row gx-5">
+                <div class="col-lg-4 col-sm-6">
+                    <img src="/images/logo.png" class="w-120px mb-10" alt="">
+                    <div class="spacer-10"></div>
+                    <p>Upgrade your lifestyle with our professional gym services and start your journey to a healthier
+                        you. From strength and functional training to energetic group sessions, we deliver customized
+                        programs designed to help you reach your fitness goals faster.</p>
+
+                    <div class="social-icons mb-sm-30">
+                        <a href="https://www.facebook.com/profile.php?id=61574001364841" target="_blank">
+                            <i class="fa-brands fa-facebook-f"></i>
+                        </a>
+                        <a href="https://www.instagram.com/lifefitnessproofficial/" target="_blank">
+                            <i class="fa-brands fa-instagram"></i>
+                        </a>
+                        <a href="https://www.youtube.com/@lifefitnessproofficial4848" target="_blank">
+                            <i class="fa-brands fa-youtube"></i>
+                        </a>
+                        <a href="https://www.yourwebsite.com" target="_blank">
+                            <i class="fa-solid fa-globe"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-12 order-lg-1 order-sm-2">
+                    <div class="row">
+                        <div class="col-lg-6 col-sm-6">
+                            <div class="widget">
+                                <h5>Company</h5>
+                                <ul>
+                                    <li><a href="index.html">Home</a></li>
+                                    <li><a href="about.html">About Us</a></li>
+                                    <li><a href="team.html">Team</a></li>
+                                    <li><a href="activities.html">Activities</a></li>
+                                    <li><a href="pricing.html">Pricing</a></li>
+                                    <li><a href="blog.html">Blog</a></li>
+                                    <li><a href="contact.html">Contact</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-sm-6">
+                            <div class="widget">
+                                <h5>Our Activities</h5>
+                                <ul>
+                                    <li><a href="aerobics.html">Aerobic</a></li>
+                                    <li><a href="crossfit.html">CrossFit</a></li>
+                                    <li><a href="zumba.html">Zumba</a></li>
+                                    <li><a href="abc.html">ABC</a></li>
+                                    <li><a href="yoga.html">Yoga</a></li>
+                                    <li><a href="kickboxing.html">Kick Boxing</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 order-lg-2 order-sm-1">
+                    <div class="widget">
+                        <div class="fw-bold text-white"><i class="icofont-clock-time me-2 id-color"></i>We're Open</div>
+                        Monday - Sunday 06.00 - 23.00
+
+                        <div class="spacer-20"></div>
+
+                        <div class="fw-bold text-white"><i class="icofont-location-pin me-2 id-color"></i>Our Location
+                        </div>
+                        5th Floor, Life Fitness Pro Sidhivinayak Business Hub, Circle, nr. Ghevar Complex, Arihant
+                        Nagar, Shahibag, Ahmedabad, Gujarat 380016
+                        091570 98443
+
+                        <div class="spacer-20"></div>
+
+                        <div class="fw-bold text-white"><i class="icofont-envelope me-2 id-color"></i>Send a Message
+                        </div>
+                        lifefinesspro07@gmail.com
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="subfooter">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="de-flex">
+                            <div class="de-flex-col">
+                                Copyright 2025 -<li><a href="https://thedigitalconnect.in/"> Devloped by The Digital
+                                        Connect-CE </a>
+                                </li>
+                            </div>
+                            <ul class="list-inline">
+                                <li class="list-inline-item"><a href="#">Terms &amp; Conditions</a></li>
+                                <li class="list-inline-item"><a href="#">Privacy Policy</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <div class="float-text show-on-scroll">
+        <span><a href="#">Scroll to top</a></span>
+    </div>
+    <div class="scrollbar-v show-on-scroll"></div>
+
+    <!-- page preloader begin -->
+    <div id="de-loader"></div>
+    <!-- page preloader close -->
+
+    <!-- Javascript Files
+    ================================================== -->
+    <script src="js/vendors.js"></script>
+    <script src="js/designesia.js"></script>
+
+</body>
+
+</html>
